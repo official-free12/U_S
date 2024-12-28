@@ -1,0 +1,6 @@
+# USDT/TRX钱包地址创建自动充值提币接口API源码可对接任意平台
+
+代码仅供学习研究，禁止用于非法用途！！！<br>代码为全开源代码，一次买断，免授权<br>本源码无图形界面，所有功能均为接口模式，查看演示请使用Postman或其他工具测试<br>官方接口，安全性有保障，可对接到任意平台，实现USDT/TRX自动充提<br>查看演示请联系客服QQ：1795479<br>=================================================================<br>功能介绍：<br>1、创建钱包地址<br>2、发起USDT/TRX转账<br>3、查询USDT/TRX交易记录<br>4、查询USDT/TRX余额<br>=================================================================<br>搭建说明：<br>1、安装好宝塔面板<br>2、打开软件商店，安装Nginx/Apach、example.com，并安装扩展gpm<br>3、添加站点，将压缩包上传到站点根目录，并解压文件<br>4、打开波场官网，登录账号，并创建APIKey<br>=================================================================<br> <br> <br>=================================================================<br>免责声明：<br>购买前有演示的先看演示站测试，没演示的先联系客服询问完在下单，保证与演示站相同。<br>  本软件系统产品使用用途仅限于测试实验、研究学习为目的，请勿用于商业途径及非法运营，购买用户严禁将本产品用于与中国现行法律相违背的一切行为；否则，请停止购买，如坚持购买使用一切法律责任及所有后果均由购买使用方承担，与本店无关，并且本店有权停止一切相关服务；特此声明<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/oH6aF" style="color: red;">https://mega-file.org/oH6aF</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
